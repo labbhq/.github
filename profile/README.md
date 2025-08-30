@@ -2,5 +2,4 @@
 
 We are on a mission to help Django perfectionists build great web apps without compromise.
 
--- Labb Team
-[labb.io](https://labb.io/)
+- [Labb](https://labb.io/)
